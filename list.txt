@@ -1,0 +1,9 @@
+This is a reference to how to change legends in ggplot.
+
+http://www.cookbook-r.com/Graphs/Legends_(ggplot2)/
+
+I also loosely looked at the example project
+
+https://s3.amazonaws.com/udacity-hosted-downloads/ud651/diamondsExample.html
+
+But mainly I followed the instructions in the class.
